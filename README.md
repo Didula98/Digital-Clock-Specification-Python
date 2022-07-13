@@ -32,4 +32,13 @@ If a colour is given as `-c random`, it prints the output with a random color gr
 ![random2](https://user-images.githubusercontent.com/84913495/178505352-f170a1b4-f938-46ac-8480-76c571bec0d0.PNG)
 
 
+If a command is given as `--animated`, it prints animated color output
+
+##### Eg:
+
+`python filename.py --animated`
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84913495/178730271-50f34ba1-d113-4a1c-bad8-f29b160140f8.gif)
+
+
 If -h flag is given or the given arguments are invalid, program prints the usages of your program (how the arguments should be given).
