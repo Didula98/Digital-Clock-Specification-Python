@@ -42,3 +42,5 @@ If a command is given as `--animated`, it prints animated color output
 
 
 If -h flag is given or the given arguments are invalid, program prints the usages of your program (how the arguments should be given).
+
+##### I did the same implementation using C programming and the reference code was added to the repo.
